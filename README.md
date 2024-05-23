@@ -18,7 +18,7 @@ Así bien, entendemos la hibridación como un proceso de remediación, de fusió
 Gracias a Manovich podemos entender que esta diferencia es importante para poder comprender la nueva etapa de evolución de los medios, aunque es posible concebir la multimedia como un caso particular de medios híbridos, nuestro autor prefiere verla realmente como un solapamiento de dos fenómenos distintos. (Lev Manovich, 2013).
 
  
-A continuación veamos si los numerosos ejemplos nos ha dejado han dado sus frutos y por fin hemos visionado como él que `nuestro metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear híbridos.`(Lev Manovich, 2013).
+A continuación veamos si los numerosos ejemplos que nos ha dejado han dado sus frutos y por fin hemos visionado como él que **nuestro metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear híbridos.**(Lev Manovich, 2013).
 
 
 ## Re-descubriendo la hibridacion: Fitbit
