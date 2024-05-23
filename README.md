@@ -12,7 +12,8 @@ Fecha: 23/05/2024
 ## Planteamiento
 
 Durante este tiempo en el que Manovich ha intentado que entendamos "el futuro" a través de sus gafas, hay varios conceptos que nos han quedado claros, pero en este ensayo nos centraremos en uno: la hibridación de medios. Para descubrir si realmente hemos entendido lo que el autor quería transmitir utilizaremos dos ejemplos, siguiendo su legado, en los que nos cuestionaremos todo lo aprendido. Para ello, empezaremos por definir esa idea que nos ha traído hasta aquí. 
-Así bien, entendemos la hibridación como un proceso de remediación, de fusión de los medios, que va más allá de la multimedia. (**Ferran Adell, 2014**) 
+
+Así bien, entendemos la hibridación como un proceso de remediación, de fusión de los medios, que va más allá de la multimedia (Ferran Adell, 2014). Es decir, a diferencia de la multimedia, en la hibridación se da una fusión entre los elementos 
 
 ## Re-descubriendo la hibridacion: Fitbit
 ![GoogleLens](https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_of_Google_Lens.svg)
