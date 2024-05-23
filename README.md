@@ -21,10 +21,24 @@ Gracias a Manovich podemos entender que esta diferencia es importante para poder
 A continuación veamos si los numerosos ejemplos que nos ha dejado han dado sus frutos y por fin hemos visionado como él que **nuestro metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear híbridos.**(Lev Manovich, 2013).
 
 
-## Re-descubriendo la hibridacion: Fitbit
+## Re-descubriendo la hibridacion: Google lens
 ![GoogleLens](https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_of_Google_Lens.svg)
 
 
-## Re-descubriendo la hibridacion:
+
+
+## Re-descubriendo la hibridacion: Fitbit
 
 ![Fitbit](https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg)
+
+
+
+
+### Referencias y Bibliografía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
