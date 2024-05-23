@@ -11,3 +11,11 @@ Fecha: 23/05/2024
 
 ## Planteamiento
 
+
+## Re-descubriendo la hibridacion: Fitbit
+![GoogleLens](https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_of_Google_Lens.svg)
+
+
+## Re-descubriendo la hibridacion:
+
+![Fitbit](https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg)
