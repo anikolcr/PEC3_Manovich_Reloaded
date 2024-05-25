@@ -80,9 +80,11 @@ Esta combinación de tecnología y cultura fomenta hábitos saludables y un esti
 * Adell, Ferran. (2014). **Remediación, multimedia e hibridación de los medios**. Fundamentos y evolución de la multimedia.
 * Google Lens. **Google Blog**. https://blog.google/products/google-lens/
 * Fitbit. https://www.fitbit.com/global/es/products/whats-new?utm_medium=sem&utm_source=google&utm_campaign=ES_PF_ROAS&gad_source=1&gclid=Cj0KCQjwmMayBhDuARIsAM9HM8fjO-Z6G5uDcDzP0FQDImvIqNKmzrlTrwmvXa12vPMN2rIlzFfK1rYaArWTEALw_wcB&gclsrc=aw.ds
+* Google Lens logo. https://es.wikipedia.org/wiki/Google_Lens
+* Fitbit logo. https://es.wikipedia.org/wiki/Fitbit
   
 
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Freepik](https://www.freepik.es/) 
